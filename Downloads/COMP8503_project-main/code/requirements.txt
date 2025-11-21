@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+geopandas
+numba
+tqdm
+shapely
+opencv-python
